@@ -63,6 +63,19 @@ Register Number: 23012657
 
 ## Output:
 ## RTL:
+
+### HALF ADDER:
+
+![Exp3 ha RTL diagram](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/e5cdaadc-7113-4178-89e1-d1856750bd35)
+
+
+### FULL ADDER:
+
+![Exp3 fa RTL diagram](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/8fd7952c-b8b2-4945-8fcb-2e1433087dc6)
+
+
+## TRUTH TABLE:
+
 ### HALF ADDER:
 
 ![Exp3 truthtable (ha)](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/251c2953-0a87-4d64-b473-33176455e816)
