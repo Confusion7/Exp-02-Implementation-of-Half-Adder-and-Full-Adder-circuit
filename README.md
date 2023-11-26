@@ -36,19 +36,66 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-/*
-Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
+Developed by: MOHAMMED SAAJID S
+
+Register Number: 23012657
+
+## CODE:
+
+## HALF ADDER:
+
+![Exp3 ha code](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/6c3bab21-c4b8-4e7b-9f1d-ac24e46fcc4b)
+
+## FULL ADDER:
+
+![Exp3 fa code](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/2dee1f7b-1f98-4c7a-8176-e216f8287e61)
+
+
+TRUTHTABLE:
+
+HALF ADDER:
+
+![Exp3 truthtable (ha)](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/270bcaab-00ef-4147-bdd6-ccc02e746cc1)
+
+FULL ADDER:
+
+![Exp3 truthtable (fa)](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/a19aa05a-7583-4dd8-b5d6-ef1875d993ae)
+
+
 RTL realization
 
 ### Output:
-### RTL
-### TIMING DIAGRAM
+### RTL:
+HALF ADDER:
+
+![Exp3 truthtable (ha)](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/251c2953-0a87-4d64-b473-33176455e816)
+
+FULL ADDER:
+
+![Exp3 truthtable (fa)](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/c32a3fe2-5708-4e25-832e-52bacc9a69ff)
 
 
-### TRUTH TABLE 
+### TIMING DIAGRAM:
+
+HALF ADDER:
+
+![WhatsApp Image 2023-11-26 at 11 49 06 AM](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/f2be5d0f-9954-40c3-ba02-caf386354e82)
+
+FULL ADDER:
+
+![WhatsApp Image 2023-11-26 at 11 49 07 AM](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/7ef169ab-9d53-4362-bc03-5da2626d3de4)
+
+
+### TRUTH TABLE:
+
+HALF ADDER:
+
+![Exp3 truthtable (ha)](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/86d14159-fe40-4ddc-8c5e-a4c7b608e975)
+
+FULL ADDER:
+
+![Exp3 truthtable (fa)](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/60240364-384b-42f7-bce4-8abd48895702)
+
 
 ### Result:
+Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
