@@ -51,15 +51,6 @@ Register Number: 23012657
 ![Exp3 fa code](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/2dee1f7b-1f98-4c7a-8176-e216f8287e61)
 
 
-## TRUTHTABLE:
-
-### HALF ADDER:
-
-![Exp3 truthtable (ha)](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/270bcaab-00ef-4147-bdd6-ccc02e746cc1)
-
-### FULL ADDER:
-
-![Exp3 truthtable (fa)](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/a19aa05a-7583-4dd8-b5d6-ef1875d993ae)
 
 ## Output:
 ## RTL:
@@ -96,15 +87,6 @@ Register Number: 23012657
 ![WhatsApp Image 2023-11-26 at 11 49 07 AM](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/7ef169ab-9d53-4362-bc03-5da2626d3de4)
 
 
-## TRUTH TABLE:
-
-### HALF ADDER:
-
-![Exp3 truthtable (ha)](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/86d14159-fe40-4ddc-8c5e-a4c7b608e975)
-
-### FULL ADDER:
-
-![Exp3 truthtable (fa)](https://github.com/Confusion7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/141727149/60240364-384b-42f7-bce4-8abd48895702)
 
 
 ## Result:
