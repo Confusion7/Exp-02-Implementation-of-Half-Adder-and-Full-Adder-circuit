@@ -36,9 +36,10 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 
 ## Program:
+
 Developed by: MOHAMMED SAAJID S
 
-Register Number: 23012657
+Register Number: 212223240093
 
 ## CODE:
 
